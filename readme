@@ -1,0 +1,8 @@
+#LangChain is an open-source framework 
+that enables developers to build sophisticated applications powered by large language models (LLMs), integrating external data, tools, and multi-step reasoning.
+LangChain is designed to simplify the creation of AI applications that go beyond basic text generation by connecting LLMs like GPT-4 to external data sources, APIs, and business logic. It supports both Python and JavaScript, providing a modular environment for building chatbots, AI agents, and intelligent automation systems. Launched in October 2022, LangChain quickly became a leading framework for generative AI applications, particularly in enterprise and cloud-native environments. 
+
+#Key Components
+Chains: Chains define sequences of actions where each step can involve querying an LLM, manipulating data, or interacting with external tools. They can be:
+Simple Chains: Single LLM invocation.
+Multi-step Chains: Multiple LLMs or actions combined, with outputs from previous steps feeding into the next. 
